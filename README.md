@@ -1,5 +1,2 @@
 "# todo" 
 "# todos" 
-"# react2" 
-"# react2" 
-"# react-project" 
